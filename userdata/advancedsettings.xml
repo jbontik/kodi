@@ -2,7 +2,7 @@
 	<cache>
 		<!-- https://kodi.wiki/view/HOW-TO%3AModify_the_video_cache -->
 		<buffermode>1</buffermode> <!-- default = 0 -->
-		<memorysize>536870912</memorysize> <!-- size in bytes, default = 20971520, 0 means use local disk as cache -->
-		<readfactor>10</readfactor> <!-- = fill rate, default = 10 -->
+		<memorysize>419430400</memorysize> <!-- size in bytes, default = 20971520, 0 means use local disk as cache -->
+		<readfactor>4</readfactor> <!-- = fill rate, default = 10 -->
 	</cache>
 </advancedsettings>
