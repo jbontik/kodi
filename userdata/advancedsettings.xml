@@ -1,0 +1,8 @@
+<advancedsettings>
+	<cache>
+		<!-- https://kodi.wiki/view/HOW-TO%3AModify_the_video_cache -->
+		<buffermode>1</buffermode> <!-- default = 0 -->
+		<memorysize>205520896</memorysize> <!-- = 196MB (size in bytes, default = 20971520) -->
+		<readfactor>5</readfactor> <!-- = fill rate, default = 10 -->
+	</cache>
+</advancedsettings>
